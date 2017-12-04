@@ -26,4 +26,4 @@ private int m_total;
 	
 }
 
-
+// Excellent.  please also try to override the constructor
